@@ -1,0 +1,16 @@
+C:\Users\danim\OneDrive\Escritorio\Archivos\Videojuegos\HolaMundoVideojuego\bin\Debug\net8.0-windows\HolaMundoVideojuego.exe
+C:\Users\danim\OneDrive\Escritorio\Archivos\Videojuegos\HolaMundoVideojuego\bin\Debug\net8.0-windows\HolaMundoVideojuego.deps.json
+C:\Users\danim\OneDrive\Escritorio\Archivos\Videojuegos\HolaMundoVideojuego\bin\Debug\net8.0-windows\HolaMundoVideojuego.runtimeconfig.json
+C:\Users\danim\OneDrive\Escritorio\Archivos\Videojuegos\HolaMundoVideojuego\bin\Debug\net8.0-windows\HolaMundoVideojuego.dll
+C:\Users\danim\OneDrive\Escritorio\Archivos\Videojuegos\HolaMundoVideojuego\bin\Debug\net8.0-windows\HolaMundoVideojuego.pdb
+C:\Users\danim\OneDrive\Escritorio\Archivos\Videojuegos\HolaMundoVideojuego\obj\Debug\net8.0-windows\HolaMundoVideojuego.Form1.resources
+C:\Users\danim\OneDrive\Escritorio\Archivos\Videojuegos\HolaMundoVideojuego\obj\Debug\net8.0-windows\HolaMundoVideojuego.csproj.GenerateResource.cache
+C:\Users\danim\OneDrive\Escritorio\Archivos\Videojuegos\HolaMundoVideojuego\obj\Debug\net8.0-windows\HolaMundoVideojuego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danim\OneDrive\Escritorio\Archivos\Videojuegos\HolaMundoVideojuego\obj\Debug\net8.0-windows\HolaMundoVideojuego.AssemblyInfoInputs.cache
+C:\Users\danim\OneDrive\Escritorio\Archivos\Videojuegos\HolaMundoVideojuego\obj\Debug\net8.0-windows\HolaMundoVideojuego.AssemblyInfo.cs
+C:\Users\danim\OneDrive\Escritorio\Archivos\Videojuegos\HolaMundoVideojuego\obj\Debug\net8.0-windows\HolaMundoVideojuego.csproj.CoreCompileInputs.cache
+C:\Users\danim\OneDrive\Escritorio\Archivos\Videojuegos\HolaMundoVideojuego\obj\Debug\net8.0-windows\HolaMundoVideojuego.dll
+C:\Users\danim\OneDrive\Escritorio\Archivos\Videojuegos\HolaMundoVideojuego\obj\Debug\net8.0-windows\refint\HolaMundoVideojuego.dll
+C:\Users\danim\OneDrive\Escritorio\Archivos\Videojuegos\HolaMundoVideojuego\obj\Debug\net8.0-windows\HolaMundoVideojuego.pdb
+C:\Users\danim\OneDrive\Escritorio\Archivos\Videojuegos\HolaMundoVideojuego\obj\Debug\net8.0-windows\HolaMundoVideojuego.genruntimeconfig.cache
+C:\Users\danim\OneDrive\Escritorio\Archivos\Videojuegos\HolaMundoVideojuego\obj\Debug\net8.0-windows\ref\HolaMundoVideojuego.dll
